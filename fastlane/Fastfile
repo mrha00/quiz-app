@@ -1,3 +1,6 @@
-Dir.chdir("android") do
-    # 构建操作代码
+lane :build_android do
+    Dir.chdir("android") do
+    # 确保只在android目录执行gradle命令
+    gradle(task: "assembleRelease")
+    end
 end
