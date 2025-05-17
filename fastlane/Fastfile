@@ -1,0 +1,3 @@
+Dir.chdir("..") do
+    # 构建操作代码
+end
