@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "type": "single",
+    "question": "驾驶机动车在道路上违反道路交通安全法的行为，属于什么行为？",
+    "options": [
+      { "code": "A", "text": "违章行为" },
+      { "code": "B", "text": "违法行为" },
+      { "code": "C", "text": "过失行为" },
+      { "code": "D", "text": "违规行为" }
+    ],
+    "answer": ["B"]
+  },
+  {
+    "id": 2,
+    "type": "multi",
+    "question": "雨天安全驾驶的错误做法是什么？",
+    "options": [
+      { "code": "A", "text": "减速行驶" },
+      { "code": "B", "text": "保持安全车距" },
+      { "code": "C", "text": "开启雾灯" },
+      { "code": "D", "text": "紧急制动" }
+    ],
+    "answer": ["C","D"]
+  }
+]

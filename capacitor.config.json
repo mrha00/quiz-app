@@ -1,0 +1,8 @@
+{
+  "appId": "com.jktlite.app",
+  "appName": "驾考通Lite",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}

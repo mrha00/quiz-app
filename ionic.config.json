@@ -1,0 +1,8 @@
+{
+    "name": "vue3-ionic-app",
+    "appId": "com.example.app",
+    "type": "vue",
+    "integrations": {
+        "capacitor": {}
+    }
+}
